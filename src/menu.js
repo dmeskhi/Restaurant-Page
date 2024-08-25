@@ -12,9 +12,9 @@ const createMenuPage = () => {
     const menuItem1 = document.createElement('li');
     menuItem1.textContent = 'Item1';
     const menuItem2 = document.createElement('li');
-    menuItem1.textContent = 'Item2';
+    menuItem2.textContent = 'Item2';
     const menuItem3 = document.createElement('li');
-    menuItem1.textContent = 'Item3';
+    menuItem3.textContent = 'Item3';
     menuList.appendChild(menuItem1);
     menuList.appendChild(menuItem2);
     menuList.appendChild(menuItem3);
